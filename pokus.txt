@@ -3,3 +3,4 @@ zmena
 toto je zmena souboru
 
 dalsi zmena ve fajlu1
+a dlasi
