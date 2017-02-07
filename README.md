@@ -8,3 +8,5 @@ a toto je zeditovano lokalne u batua na nojbuku
 dalsi nova zmena souboru
 
 dalsi radek
+
+toto jsempridal z domu
