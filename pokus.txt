@@ -6,4 +6,8 @@ dalsi zmena ve fajlu1
 a dlasi
 a jeste jedna
 
+<<<<<<< HEAD
 opet dlasi zmena soboru
+=======
+zase dalsi zmena souboru
+>>>>>>> pica
