@@ -3,3 +3,4 @@ zmena
 porvedena zmena
 dalsi zmena
 poradna zmena k lepsimu
+zmena zaroven se zmenou fajlu1

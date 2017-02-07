@@ -11,3 +11,6 @@ opet dlasi zmena soboru
 =======
 zase dalsi zmena souboru
 >>>>>>> pica
+
+zmena dalsi
+a pak jeste dalsi zmena
